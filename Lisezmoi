@@ -1,5 +1,0 @@
-Le programme dispose d'un makefile : l'éxécutable créé s'appelle "train". Veuillez vous assurer d'entrer la commande "make clean" avant de compiler une nouvelle fois avec "make".
-
-Le programme "train" nécessite d'entrer un argument : le nombre de trains de la simulation.
-
-Il est possible de rencontrer des erreurs suite à l'utilisation de la fonction pthread_setschedprio : dans ce cas, essayez d'éxécuter le programme avec les privilèges administrateurs.
